@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name">OPPO 健康 MCS 黑名单解锁</string>
+    <string name="module_description">清空 MCS 音乐控制黑名单（r51.a 的 ArraySet），并阻止服务端下发的 server_config 重新写入，使所有音乐 App 都能作为被控端出现。</string>
+</resources>
